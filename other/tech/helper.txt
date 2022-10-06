@@ -1,0 +1,3 @@
+<p align="left">
+<a href="link"><img src="./other/tech/c-sharp.PNG" alt="C#" width="30px"></a>
+</p>
