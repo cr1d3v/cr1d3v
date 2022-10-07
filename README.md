@@ -1,15 +1,15 @@
 # 👋 **Cristin Dohotaru**
 
-**`Graduate developer based in (Milton Keynes, UK)`**
+**` Computer Science Graduate based in (Milton Keynes, UK)`**
 
-Recent graduate, dedicated to using and advancing his knowledge and skills to design insightful software for an innovative and ambitious company. 
+Recent graduate dedicated to using and advancing his knowledge and skills with an innovative and ambitious company.
 
-An inquisitive individual that has a strong foundation in programming principles coupled with sheer indefatigability to grasp new concepts quickly by overcoming barriers through innovative and creative thinking. Possess strong interpersonal and collaboration skills.
+An inquisitive individual that has a strong foundation in programming principles, computer law, network security, image processing, database design and core maths
+for computing coupled with sheer determination to grasp new concepts quickly by overcoming barriers through innovative and creative thinking.
+
+Possess strong interpersonal and collaboration skills.
 
 Inbox me to chat, on [LinkedIn](https://www.linkedin.com/in/cristin-dohotaru/) or by [Email](mailto:cristin.dohotaru@gmail.com). We'll decide if working together makes sense!
-<p align="right">
-<a href="https://drive.google.com/file/d/13TMD1cgVJNm4a0DIEIDXozwS3XgIj5LS/view?usp=sharing"><img src="./other/social/cv.svg" alt="Curriculum Vitae"></a>
-</p>
 
 ## 🛠️Tech Stack
 
