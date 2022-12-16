@@ -1,14 +1,14 @@
 # 👋 **Cristin Dohotaru**
 
-**` Computer Science Graduate based in (Milton Keynes, UK)`**
+**` Technology Craftsman based in the UK`**
 
 An open-minded person committed to learning new concepts by overcoming obstacles through creative thinking.
 
-I've been passionate about technology my entire life. I was in fact one of those overly curious children who would, take things apart to figure out how they worked, constantly brainstorming through my own thought process as I did so in an effort to challenge the status quo using effective research and concise communication methods.
+I've been passionate about technology my entire life. I was in fact one of those overly curious children who would take things apart to figure out how they worked, constantly brainstorming through my own thought process as I did so in an effort to challenge the status quo using effective research and concise communication methods.
 
-My desire to understand how things function motivated me to pursue a career in technology and therefore convinced me to settle on a computer science degree, where upon completion I became a jack of all trades who is now looking to become the master of some.
+My desire to understand how things function motivated me to pursue a career in technology, which therefore convinced me to settle on a computer science degree. Upon graduation, I became a jack-of-all-trades who is currently working to become a master of some.
 
-Inbox me to chat, on [LinkedIn](https://www.linkedin.com/in/cristin-dohotaru/) or by [Email](mailto:cristin.dohotaru@gmail.com). We'll decide if working together makes sense!
+PS: Free to chat, on [LinkedIn](https://www.linkedin.com/in/cristin-dohotaru/). Happy to connect and contribute to open-source projects!
 
 ## 🛠️Tech Stack
 
