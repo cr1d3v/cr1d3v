@@ -6,10 +6,6 @@ The sole purpose of my Github profile is to showcase my portfolio projects and p
 
 In short, I've been passionate about technology my entire life. I was in fact one of those overly curious children who would take things apart to figure out how they worked. That's exactly why to this day I continue to learn and develop in a forever evolving industry.
 
-<p align="right">
-<a href="https://github.com/cr1d3v?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ## 🛠️Tech Stack
 
 <p align="left">
@@ -25,4 +21,8 @@ In short, I've been passionate about technology my entire life. I was in fact on
 <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
+
+<p align="right">
+<a href="https://github.com/cr1d3v?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
