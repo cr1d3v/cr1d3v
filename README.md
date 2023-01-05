@@ -1,4 +1,4 @@
-## 📜About
+## ♾️About
 
 The sole purpose of my Github profile is to showcase my portfolio projects and provide an overview of what I am currently working on outside of work.
 
