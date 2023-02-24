@@ -2,8 +2,6 @@
 
 The sole purpose of my Github profile is to showcase my portfolio projects and provide an overview of what I am currently working on outside of work.
 
-In short, I've been passionate about technology my entire life. I was in fact one of those overly curious children who would take things apart to figure out how they worked. That's exactly why to this day I continue to learn and develop in a forever evolving industry.
-
 ## 🛠️Tech Stack
 
 <p align="left">
@@ -12,11 +10,6 @@ In short, I've been passionate about technology my entire life. I was in fact on
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>  
 <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### Studying:
-<p align="left">
-ORACLE SQL and Power BI
 </p>
 
 <p align="right">
