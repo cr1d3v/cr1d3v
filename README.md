@@ -1,6 +1,10 @@
 ## ♾️About
 
-H3ll0 W0RLD
+From tinkering with toys as a tot to diving deep into the digital domain as an adult, I like spending my time solving tech-related puzzles, dissecting topics by breaking them down into small pieces. My whole life is a quest, spawned back in the 90s, decoded my way through a computer science degree, autosaved along the journey, moved across countries, learned a few languages and constantly sought new milestones.
+--------------------
+
+* 🌍  based in Milton Keynes, UK
+* ✉️  You can reach me at [cr1d3v@gmail.com](mailto:cr1d3v@gmail.com)
 
 ## 🛠️Tech Stack
 
