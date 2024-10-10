@@ -10,10 +10,7 @@
 
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<a href="https://uk.mathworks.com/products/matlab.html"><img alt="MATLAB" src ="https://img.shields.io/badge/-MATLAB-blue"></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>  
-<a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 <p align="right">
