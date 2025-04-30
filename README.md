@@ -1,19 +1,6 @@
 ## ♾️ About Me
 
-From tinkering with toys as a tot to diving deep into the digital domain as an adult.
-My life in summary? A continuous quest: spawned in the late '90s, relocated to the UK in the early '10s, decoded my way through a Computer Science degree in the picturesque city of Cambridge and picked up a few spoken and programming languages along the way.
-
-My journey into IT began when I was five, the day my parents brought home a Pentium 4 PC. I spent hours mastering Minesweeper, experimenting with Win XP settings I probably shouldn't have touched like deleting this one folder called *System32* (apparently the operating system kind of needed it) and being told never to pick up the phone while the internet was doing its screechy dial up tone.
-
-By the age of nine, we were covering basic hardware concepts in school but at home, I was already knee deep in the real stuff, swapping out freshly gifted birthday RAM just to squeeze enough power to run the newly released GTA IV on minimum settings, of course. Just before relocating to the UK, I was introduced to my first programming language COBOL. It was old, difficult and clunky, but it planted a seed. That seed would remain dormant until my Comp Sci degree, when I’d be formally introduced to the modern languages: C#, Java, HTML, CSS, and SQL.
-
-After moving to the UK, I continued studying IT and progressed through college into a Level 3 course. 
-Naturally, I chose to pursue a Computer Science degree in late 2019 perfect timing to be hit by a global pandemic. Lockdowns. Remote lectures. Isolation. 
-I felt every part of it. But I adapted, persevered, and successfully graduated in the summer of 2022.
-
-From 2023 to 2025, I was part of an IT Graduate Scheme where I rotated across several IT departments. While the experience broadened my perspective, I found myself missing the development side of things. That realisation led me to refresh my skills and return to the area of IT I’ve always enjoyed the most: software engineering.
-
-Now, I'm building up my GitHub profile one thoughtful commit at a time
+Passionate about breaking down complex tech puzzles into simple, workable solutions. Born in the late '90s, moved to the UK in the early '10s, and earned a Computer Science degree in the early '20s. Steadily collecting fresh milestones, with each challenge viewed as an opportunity to advance and refine my skills.
 
 ---
 
