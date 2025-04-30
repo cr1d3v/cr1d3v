@@ -1,4 +1,5 @@
-## ♾️ About Me
+### `About Me`
+
 
 Passionate about breaking down complex tech puzzles into simple, workable solutions. Born in the late '90s, moved to the UK in the early '10s, and earned a Computer Science degree in the early '20s. Steadily collecting fresh milestones, with each challenge viewed as an opportunity to advance and refine my skills.
 
